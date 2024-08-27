@@ -1,0 +1,14 @@
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\bin\Debug\net8.0\E-Commerce.Presentation.exe
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\bin\Debug\net8.0\E-Commerce.Presentation.deps.json
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\bin\Debug\net8.0\E-Commerce.Presentation.runtimeconfig.json
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\bin\Debug\net8.0\E-Commerce.Presentation.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\bin\Debug\net8.0\E-Commerce.Presentation.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.AssemblyInfoInputs.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.AssemblyInfo.cs
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.csproj.CoreCompileInputs.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\refint\E-Commerce.Presentation.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.genruntimeconfig.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\ref\E-Commerce.Presentation.dll
