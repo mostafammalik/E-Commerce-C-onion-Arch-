@@ -12,3 +12,4 @@ G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\re
 G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.pdb
 G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.genruntimeconfig.cache
 G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\ref\E-Commerce.Presentation.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.Presentation\obj\Debug\net8.0\E-Commerce.Presentation.sourcelink.json
