@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj": {}
+    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj": {
+    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
+        "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
         "projectName": "E-Commerce.Context",
-        "projectPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
-        "packagesPath": "C:\\Users\\monaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\obj\\",
+        "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
+        "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
+        "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\monaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohammed hamdy fandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
