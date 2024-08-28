@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/KIQciNGDxk=",
+  "dgSpecHash": "M1Y/TSaabgA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\E-Commerce.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\E-Commerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

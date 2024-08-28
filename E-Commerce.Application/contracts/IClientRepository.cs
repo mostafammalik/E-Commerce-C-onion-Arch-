@@ -1,14 +1,11 @@
 ﻿using System;
+using E_Commerce.Application.contracts;
 using Ecommerce.Models;
 namespace E_Commerce.Application
 {
-    public interface IClientRepository
+    public interface IClientRepository:IGenericRepository<Client>
     {
-        public Client getOne(int id);
-        public List<Client> getAll();
-
-        public void Delete(int id);
-        public Client Add(Client client);
+       
 
     }
 }
