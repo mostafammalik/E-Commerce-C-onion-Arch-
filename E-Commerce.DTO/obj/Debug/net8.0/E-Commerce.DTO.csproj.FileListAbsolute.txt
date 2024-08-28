@@ -1,0 +1,16 @@
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\E-Commerce.DTO.deps.json
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\E-Commerce.DTO.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\E-Commerce.DTO.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\Ecommerce.Models.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\Ecommerce.Models.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.csproj.AssemblyReference.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.AssemblyInfoInputs.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.AssemblyInfo.cs
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.csproj.CoreCompileInputs.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.sourcelink.json
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commer.0E11CCFF.Up2Date
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\refint\E-Commerce.DTO.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\ref\E-Commerce.DTO.dll

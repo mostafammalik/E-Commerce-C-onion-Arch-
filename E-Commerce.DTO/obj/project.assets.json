@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Ecommerce.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Ecommerce.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommerce.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ecommerce.Models/1.0.0": {
+      "type": "project",
+      "path": "../Ecommerce.Models/Ecommerce.Models.csproj",
+      "msbuildProject": "../Ecommerce.Models/Ecommerce.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Ecommerce.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\monaa\\.nuget\\packages\\": {}
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\E-Commerce.DTO.csproj",
+      "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\E-Commerce.DTO.csproj",
       "projectName": "E-Commerce.DTO",
-      "projectPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\E-Commerce.DTO.csproj",
-      "packagesPath": "C:\\Users\\monaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\obj\\",
+      "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\E-Commerce.DTO.csproj",
+      "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
+      "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\monaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mohammed hamdy fandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -34,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+              "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -67,7 +95,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
