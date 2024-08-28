@@ -1,0 +1,12 @@
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.deps.json
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfoInputs.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfo.cs
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.sourcelink.json
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\refint\Ecommerce.Models.dll
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.pdb
+G:\MyGithub\E-Commerce-C-onion-Arch-\Ecommerce.Models\obj\Debug\net8.0\ref\Ecommerce.Models.dll

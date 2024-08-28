@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Ecommerce.Models;
+using System;
 
-public class Class1
+public class Category
 {
-	public Class1()
-	{
-	}
+	public int Id { get; set; } 
+	public string Name { get; set; }
+	public ICollection<Product> Proucts = new HashSet<Product>();
 }

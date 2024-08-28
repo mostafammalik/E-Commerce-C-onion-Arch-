@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\monaa\\.nuget\\packages\\": {}
+    "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
+      "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
       "projectName": "Ecommerce.Models",
-      "projectPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
-      "packagesPath": "C:\\Users\\monaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\obj\\",
+      "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
+      "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
+      "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\monaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mohammed hamdy fandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

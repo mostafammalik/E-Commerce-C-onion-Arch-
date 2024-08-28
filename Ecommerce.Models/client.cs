@@ -7,7 +7,7 @@ namespace Ecommerce.Models
         public string Name { get; set; }
         public string phone { get; set; }
         public string email { get; set; }
-        public int password { get; set }
+        public int password { get; set; }
         public string address { get; set; }
         
     }
