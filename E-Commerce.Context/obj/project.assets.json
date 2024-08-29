@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
+      "projectUniqueName": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
       "projectName": "E-Commerce.Context",
-      "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
+      "projectPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\E-Commerce.Context.csproj",
       "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
-      "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\obj\\",
+      "outputPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
