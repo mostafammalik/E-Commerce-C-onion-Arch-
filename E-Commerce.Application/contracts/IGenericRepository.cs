@@ -10,7 +10,7 @@ namespace E_Commerce.Application.contracts
     public interface IGenericRepository<T>
     {
         public T getOne(int id);
-        public List<T> getAll();
+        public IQueryable<T> getAll();
 
         public void Delete(int id);
 

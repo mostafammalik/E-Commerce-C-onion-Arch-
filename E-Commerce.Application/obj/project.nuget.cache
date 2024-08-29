@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M1Y/TSaabgA=",
+  "dgSpecHash": "hFRmQmo9bDY=",
   "success": true,
-  "projectFilePath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\E-Commerce.Application.csproj",
+  "projectFilePath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\E-Commerce.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
