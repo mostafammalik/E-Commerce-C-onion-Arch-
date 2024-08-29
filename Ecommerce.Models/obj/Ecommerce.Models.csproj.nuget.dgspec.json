@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj": {}
+    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj": {}
   },
   "projects": {
-    "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj": {
+    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
+        "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
         "projectName": "Ecommerce.Models",
-        "projectPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
+        "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Ecommerce.Models.csproj",
         "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
-        "outputPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\obj\\",
+        "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

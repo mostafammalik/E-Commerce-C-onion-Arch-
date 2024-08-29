@@ -8,8 +8,9 @@ namespace Ecommerce.Models
         public string phone { get; set; }
         public string email { get; set; }
         public int password { get; set; }
-        public string address { get; set; }
-        public ICollection<Product> products { get; set; }
+        public string address { get; set; } 
+        // icollection of product that client added to cart (CartItems)
+        public ICollection<Cartitem> CartItemsProducts { get; set; }
 
 
     }

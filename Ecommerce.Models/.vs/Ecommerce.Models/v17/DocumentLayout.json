@@ -1,42 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\",
+  "WorkspaceRootPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\projectc#\\projectc#\\e-commerce-c-onion-arch-\\ecommerce.models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D82BBAC2-55D8-4883-8718-CDBB324DD4AA}|..\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.infrastructure\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5A929D-6FB8-420C-A350-9050535096C4}|..\\E-Commerce.Context\\E-Commerce.Context.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.context\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82BBAC2-55D8-4883-8718-CDBB324DD4AA}|..\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82BBAC2-55D8-4883-8718-CDBB324DD4AA}|..\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82BBAC2-55D8-4883-8718-CDBB324DD4AA}|..\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.infrastructure\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB5CDE-A116-46CD-9AFE-C3F5C86F6818}|..\\E-Commerce.Application\\E-Commerce.Application.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.application\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\ecommerce.models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|solutionrelative:cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\projectc#\\projectc#\\e-commerce-c-onion-arch-\\ecommerce.models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\projectc#\\projectc#\\e-commerce-c-onion-arch-\\ecommerce.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\projectc#\\projectc#\\e-commerce-c-onion-arch-\\ecommerce.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\ecommerce.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\projectc#\\projectc#\\e-commerce-c-onion-arch-\\ecommerce.models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DABB5CDE-A116-46CD-9AFE-C3F5C86F6818}|..\\E-Commerce.Application\\E-Commerce.Application.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.application\\services\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\projectc#\\projectc#\\e-commerce-c-onion-arch-\\ecommerce.models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DABB5CDE-A116-46CD-9AFE-C3F5C86F6818}|..\\E-Commerce.Application\\E-Commerce.Application.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.application\\services\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABB5CDE-A116-46CD-9AFE-C3F5C86F6818}|..\\E-Commerce.Application\\E-Commerce.Application.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.application\\services\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770E296C-1AE6-4E71-8156-51FD782D6F9E}|..\\E-Commerce.DTO\\E-Commerce.DTO.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770E296C-1AE6-4E71-8156-51FD782D6F9E}|..\\E-Commerce.DTO\\E-Commerce.DTO.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.dto\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\ecommerce.models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB45830-467C-4739-9102-64ADF8C60A6D}|Ecommerce.Models.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IClientRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{770E296C-1AE6-4E71-8156-51FD782D6F9E}|..\\E-Commerce.DTO\\E-Commerce.DTO.csproj|g:\\mygithub\\e-commerce-c-onion-arch-\\e-commerce.dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\ProductDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -49,134 +61,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Infrastructure\\CategoryRepository.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\E-Commerce.Infrastructure\\CategoryRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:08:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Infrastructure\\ClientRepository.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\ClientRepository.cs",
+              "RelativeToolTip": "..\\E-Commerce.Infrastructure\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:10:00.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Infrastructure\\OrderRepository.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\OrderRepository.cs",
+              "RelativeToolTip": "..\\E-Commerce.Infrastructure\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:10:48.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Infrastructure\\ProductRepository.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Infrastructure\\ProductRepository.cs",
+              "RelativeToolTip": "..\\E-Commerce.Infrastructure\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:11:34.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Context\\EcommerceContext.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Context\\EcommerceContext.cs",
+              "RelativeToolTip": "..\\E-Commerce.Context\\EcommerceContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:14:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Application\\contracts\\IGenericRepository.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\E-Commerce.Application\\contracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:24:10.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T22:17:51.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Cartitem.cs",
+              "RelativeDocumentMoniker": "Cartitem.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Cartitem.cs",
+              "RelativeToolTip": "Cartitem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:00:08.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericServices.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\Services\\IGenericServices.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Application\\Services\\IGenericServices.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\Services\\IGenericServices.cs",
+              "RelativeToolTip": "..\\E-Commerce.Application\\Services\\IGenericServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:57:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\Services\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Application\\Services\\ICategoryServices.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\Services\\ICategoryServices.cs",
+              "RelativeToolTip": "..\\E-Commerce.Application\\Services\\ICategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:57:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\Services\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.Application\\Services\\CategoryServices.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\Services\\CategoryServices.cs",
+              "RelativeToolTip": "..\\E-Commerce.Application\\Services\\CategoryServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:37:38.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.DTO\\ClientDTO.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\ClientDTO.cs",
+              "RelativeToolTip": "..\\E-Commerce.DTO\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:34:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItemDTO.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\CartItemDTO.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.DTO\\CartItemDTO.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\CartItemDTO.cs",
+              "RelativeToolTip": "..\\E-Commerce.DTO\\CartItemDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:34:14.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce.DTO\\CategoryDTO.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "..\\E-Commerce.DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:25:11.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "client.cs",
+              "DocumentMoniker": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\client.cs",
+              "RelativeDocumentMoniker": "client.cs",
+              "ToolTip": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\client.cs",
+              "RelativeToolTip": "client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T19:56:01.211Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:46:38.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:33:55.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Category.cs",
-              "RelativeDocumentMoniker": "Category.cs",
-              "ToolTip": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Category.cs",
-              "RelativeToolTip": "Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:42:35.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cartitem.cs",
-              "DocumentMoniker": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Cartitem.cs",
-              "RelativeDocumentMoniker": "Cartitem.cs",
-              "ToolTip": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Cartitem.cs",
-              "RelativeToolTip": "Cartitem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:22:04.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Admin.cs",
-              "RelativeDocumentMoniker": "Admin.cs",
-              "ToolTip": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Admin.cs",
-              "RelativeToolTip": "Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:41:19.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Order.cs",
-              "RelativeDocumentMoniker": "Order.cs",
-              "ToolTip": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\Order.cs",
-              "RelativeToolTip": "Order.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:47:49.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IClientRepository.cs",
-              "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IClientRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:37:00.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:32:04.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Application\\contracts\\IGenericRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:32:07.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\ndoos\\OneDrive\\Desktop\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.DTO\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T12:25:07.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "client.cs",
-              "DocumentMoniker": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\client.cs",
-              "RelativeDocumentMoniker": "client.cs",
-              "ToolTip": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\Ecommerce.Models\\client.cs",
-              "RelativeToolTip": "client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:43:28.517Z"
             }
           ]
         }

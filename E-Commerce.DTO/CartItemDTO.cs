@@ -1,24 +1,21 @@
-﻿using System;
+﻿using Ecommerce.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ecommerce.Models
+namespace E_Commerce.DTO
 {
-    public class Cartitem
+    public class CartItemDTO
     {
         public int Id { get; set; }
 
         [ForeignKey("client")]
-        public int client_Id { get; set; }
-        public Client client { get; set; }
+        public int clientId { get; set; }
         [ForeignKey("Product")]
         public int ProductId { get; set; }
-        public Product Product { get; set; }
         public int Quantity { get; set; }
-
-
     }
 }

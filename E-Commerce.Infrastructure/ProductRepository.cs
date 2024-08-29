@@ -1,37 +1,41 @@
-﻿using E_Commerce.DTO;
+﻿using E_Commerce.Application.contracts;
+using Ecommerce.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E_Commerce.Application.Services
+namespace E_Commerce.Infrastructure
 {
-    public class ClientServices : IClientService
+    public class ProductRepository : IProductRepository
     {
-        public ClientDTO Add(ClientDTO product)
+        public Product Add(Product client)
         {
             throw new NotImplementedException();
         }
 
-         
-
-        public void Delet(int productId)
+        public Product Create(Product entity)
         {
             throw new NotImplementedException();
         }
 
-        public ICollection<ClientDTO> GetallProducts()
+        public void Delete(int id)
         {
             throw new NotImplementedException();
         }
 
-        public ICollection<ClientDTO> GetallProductsDTO()
+        public IQueryable<Product> getAll()
         {
             throw new NotImplementedException();
         }
 
-        public ClientDTO GetOne(int productId)
+        public Product getOne(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Product Update(Product client)
         {
             throw new NotImplementedException();
         }

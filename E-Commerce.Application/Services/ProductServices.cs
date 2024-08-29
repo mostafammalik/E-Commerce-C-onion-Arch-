@@ -87,6 +87,9 @@ namespace E_Commerce.Application.Services
             return GetallProductsM();
         }
 
-         
+        public ICollection<ProductDTO> GetallProducts()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

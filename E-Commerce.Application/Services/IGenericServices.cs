@@ -9,7 +9,6 @@ namespace E_Commerce.Application.Services
 {
     public interface IGenericServices<T>
     {
-        public T Create(T product);
         public T Add(T product);
         //public ProductDTO Update(ProductDTO product);
         public void Delet(int productId);

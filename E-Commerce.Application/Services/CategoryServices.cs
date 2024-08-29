@@ -26,11 +26,6 @@ namespace E_Commerce.Application.Services
             return mapper.Map<CategoryDTO>(catRepo);
         }
 
-        public CategoryDTO Create(CategoryDTO category)
-        {
-            throw new NotImplementedException();
-        }
-
         public void Delet(int categoryId)
         {
             throw new NotImplementedException();
@@ -42,6 +37,12 @@ namespace E_Commerce.Application.Services
         }
 
         public CategoryDTO GetOne(int categoryId)
+        {
+           return mapper.Map<CategoryDTO>
+                ( categoryRepository.getOne(categoryId));
+        }
+
+        public ICollection<CategoryDTO> GetallProductsDTO()
         {
             throw new NotImplementedException();
         }

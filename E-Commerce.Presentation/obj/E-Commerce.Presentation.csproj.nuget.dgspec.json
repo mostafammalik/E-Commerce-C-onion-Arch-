@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {}
+    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {}
   },
   "projects": {
-    "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {
+    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
+        "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
         "projectName": "E-Commerce.Presentation",
-        "projectPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
+        "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
         "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
-        "outputPath": "G:\\projectc#\\projectc#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\obj\\",
+        "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
