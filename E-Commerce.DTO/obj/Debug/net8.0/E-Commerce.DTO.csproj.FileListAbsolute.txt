@@ -1,0 +1,16 @@
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\E-Commerce.DTO.deps.json
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\E-Commerce.DTO.dll
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\E-Commerce.DTO.pdb
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\Ecommerce.Models.dll
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\bin\Debug\net8.0\Ecommerce.Models.pdb
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.csproj.AssemblyReference.cache
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.AssemblyInfoInputs.cache
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.AssemblyInfo.cs
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.sourcelink.json
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commer.0E11CCFF.Up2Date
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.dll
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\refint\E-Commerce.DTO.dll
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\E-Commerce.DTO.pdb
+C:\Users\monaa\source\repos\project_c#\E-Commerce-C-onion-Arch-\E-Commerce.DTO\obj\Debug\net8.0\ref\E-Commerce.DTO.dll

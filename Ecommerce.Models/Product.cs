@@ -19,7 +19,7 @@ namespace Ecommerce.Models
         [ForeignKey("Client")]
         public Client client { get; set; }
 
-       
+       public decimal Price { get; set; }
         [ForeignKey("category")]
         public int? CatID { get; set; }
        

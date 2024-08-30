@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {}
+    "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {}
   },
   "projects": {
-    "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {
+    "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
         "projectName": "E-Commerce.Presentation",
-        "projectPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
-        "packagesPath": "C:\\Users\\mohammed hamdy fandy\\.nuget\\packages\\",
-        "outputPath": "G:\\MyGithub\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\obj\\",
+        "projectPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\E-Commerce.Presentation.csproj",
+        "packagesPath": "C:\\Users\\monaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\monaa\\source\\repos\\project_c#\\E-Commerce-C-onion-Arch-\\E-Commerce.Presentation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mohammed hamdy fandy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\monaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

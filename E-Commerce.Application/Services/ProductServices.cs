@@ -35,9 +35,10 @@ namespace E_Commerce.Application.Services
 
         public void Delet(int productId)
         {
+
             productRepository.getAll()
-                .Select(product => product.Id = productId).FirstOrDefault(); 
-            //productRepository.Delete()
+                .Select(product => product.Id = productId).FirstOrDefault();
+            ////productRepository.Delete()
         }
 
         public ICollection<GetAllProductsDTO> GetAllProducts()
